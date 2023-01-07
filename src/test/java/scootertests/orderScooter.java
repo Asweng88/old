@@ -23,6 +23,7 @@ import static org.junit.Assert.assertTrue;
 
 @RunWith(Parameterized.class)
 public class orderScooter {
+
     //Добавь необходимые поля
     private String button;
     private String name;
